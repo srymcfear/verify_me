@@ -1,6 +1,7 @@
 {
   "fear-ver": "1.2.1",
   "autokboard-ver": "1.2.1",
+  "autokboard-key": "active",
   "name": "FEAR-PJ1",
   "status": "active"
 }
