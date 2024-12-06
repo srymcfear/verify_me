@@ -2,6 +2,10 @@
   "fear-ver": "1.2.1",
   "autokboard-ver": "1.2.1",
   "autokboard-key": "active",
+
+  "twitchdrop-ver": "1.0",
+  "twitchdrop-key": "active",
+  
   "name": "FEAR-PJ1",
   "status": "active"
 }
