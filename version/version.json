@@ -1,4 +1,5 @@
 {
+  "active,baotri,lock",
   "fear-ver": "1.2.1",
   "autokboard-ver": "1.2.1",
   "autokboard-key": "active",
@@ -12,7 +13,7 @@
   "youtubeads-ver": "1.2",
 
   "lolmodskin-ver": "1.0",
-  "lolmodskin-key": "active",
+  "lolmodskin-key": "baotri",
   
   "name": "FEAR-PJ1",
   "status": "active"
