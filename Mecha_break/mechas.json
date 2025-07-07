@@ -1,0 +1,86 @@
+[
+  {
+    "name": "INFERNO",
+    "role": "Ultra-Heavy Attacker (S-Tier)",
+    "skills": ["Split Emitter", "Focused Emitter", "Booster Kit"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/INFERNO.jpg"
+  },
+  {
+    "name": "STEGO",
+    "role": "Ultra-Heavy Defender (S-Tier)",
+    "skills": ["Energy Barrier", "Rocket Pod", "Turret Form"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/STEGO.jpg"
+  },
+  {
+    "name": "PANTHER",
+    "role": "Melee DPS Attacker (S-Tier)",
+    "skills": ["Dash Slash", "Shield Blade", "Shadow Step"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/PANTHER.jpg"
+  },
+  {
+    "name": "TRICERA",
+    "role": "Ultra-Heavy Defender (A-Tier)",
+    "skills": ["Fortress Form Module", "Repair Drone", "Howitzer"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/TRICERA.jpg"
+  },
+  {
+    "name": "WELKIN",
+    "role": "Heavy Brawler Attacker (S-Tier)",
+    "skills": ["Dueling Forcefield", "Heavy Battleaxe", "Jamming Generator"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/WELKIN.jpg"
+  },
+  {
+    "name": "ALYSNES",
+    "role": "Medium Attacker (A-Tier)",
+    "skills": ["Energy Auto Cannon", "Battle Halberd", "Gauss Cannon"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/ALYSNES.jpg"
+  },
+  {
+    "name": "AQUILA",
+    "role": "Heavy Sniper (B-Tier)",
+    "skills": ["Mobile Beam Cannon (Sniper)", "Mobile Beam Cannon (Close)", "Airborne Kit", "Claw Drone"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/AQUILA.jpg"
+  },
+  {
+    "name": "NARUKAMI",
+    "role": "Light Sniper (B-Tier)",
+    "skills": ["Charged Beam Cannon", "Decoy Drone", "Traction Grappler", "Optical Camo Domes"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/NARUKAMI.jpg"
+  },
+  {
+    "name": "FALCON",
+    "role": "Medium Attacker (A-Tier)",
+    "skills": ["Autocannon", "Light Missile Launcher", "Recon Kit", "Winged Form", "Heavy Missile Launcher"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/FALCON.jpg"
+  },
+  {
+    "name": "SKYRAIDER",
+    "role": "Medium Attacker (B-Tier)",
+    "skills": ["Energy Autocannon", "Energy Missile", "Jamming Missile", "Aerial Assault Form", "Missile Dispenser"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/SKYRAIDER.jpg"
+  },
+  {
+    "name": "STELLARIS",
+    "role": "Light Brawler Attacker (A-Tier)",
+    "skills": ["Camouflage", "Dual Swords Slash", "Composite Tactical Claw"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/STELLARIS.jpg"
+  },
+  {
+    "name": "PINAKA",
+    "role": "Medium Support (S-Tier)",
+    "skills": ["Emergency Support Drone", "Repair Drone", "Splitter", "Cover Airdrop Kit"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/PINAKA.jpg"
+  },
+  {
+    "name": "LUMINAE",
+    "role": "Light Support (A-Tier)",
+    "skills": ["Repair Drone", "Repair Drone (Attack Mode)", "Repair Haze Diffuser", "Corruption Form Module"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/LUMINAE.jpg"
+  },
+  {
+    "name": "HURRICANE",
+    "role": "Heavy Defender (A-Tier)",
+    "skills": ["Energy Blaster", "Decoy Drone", "EIC Field Shield Drone", "Turret Drone", "Splitter"],
+    "image": "https://github.com/srymcfear/verify_me/raw/main/Mecha_break/mecha/HURRICANE.jpg"
+  }
+]
