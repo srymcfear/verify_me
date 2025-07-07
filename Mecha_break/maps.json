@@ -5,70 +5,70 @@
     {
       "map_id": "kraub_sinkhole",
       "name": "Kraub Sinkhole",
-      "objective": "Control data nodes",
+      "objective": "Chiếm - Kiểm soát các nodes",
       "description": "Chiếm và giữ các Data Nodes trong địa hình hầm ngầm.",
       "recommended_mechas": ["Stego", "Alysnes", "Narukami"]
     },
     {
       "map_id": "cape_blanc_observatory",
       "name": "Cape Blanc Observatory",
-      "objective": "Dismantle Corite Extractors",
+      "objective": "Phá hủy trạm khai thác Corite",
       "description": "Tháo gỡ các Extractors trong môi trường gần - trung.",
       "recommended_mechas": ["Tricera", "Falcon", "Inferno"]
     },
     {
       "map_id": "palmbay_harbor",
       "name": "Palmbay Harbor",
-      "objective": "Payload escort",
+      "objective": "Hộ tống xe hàng",
       "description": "Đẩy payload qua khu cảng với góc rộng và chốt.",
       "recommended_mechas": ["Welkin", "Panther", "Aquila"]
     },
     {
       "map_id": "eye_of_misra",
       "name": "Eye of Misra",
-      "objective": "Key capture & escort",
+      "objective": "Cướp & Giao Key",
       "description": "Chiến đấu xoay quanh carrier mang chìa khóa.",
       "recommended_mechas": ["Aquila", "Skyraider", "Tricera"]
     },
     {
       "map_id": "gracelynn_skycity",
       "name": "Gracelynn Skycity",
-      "objective": "Best-of-three team deathmatch",
+      "objective": "Đấu sinh tử BO3",
       "description": "Đấu súng liên tục trong map đô thị tầng cao.",
       "recommended_mechas": ["Inferno", "Panther", "Narukami"]
     },
     {
       "map_id": "poseidon_armory",
       "name": "Poseidon Armory",
-      "objective": "Control data nodes",
+      "objective": "Chiếm - Kiểm soát các nodes",
       "description": "Chiến đấu dưới nước, cần sự bền bỉ và kiểm soát góc.",
       "recommended_mechas": ["Stego", "Stellaris", "Alysnes"]
     },
     {
       "map_id": "stella_observatory_island",
       "name": "Stella Observatory Island",
-      "objective": "Dismantle Corite Extractors",
+      "objective": "Phá hủy trạm khai thác Corite",
       "description": "Map mở – yêu cầu kiểm soát từ xa và áp sát linh hoạt.",
       "recommended_mechas": ["Falcon", "Skyraider", "Pinaka"]
     },
     {
       "map_id": "longmen_launch_site",
       "name": "Longmen Launch Site",
-      "objective": "Payload escort",
+      "objective": "Hộ tống xe hàng",
       "description": "Bản đồ tuyến tính dài – dễ phục kích ở nhiều đoạn.",
       "recommended_mechas": ["Panther", "Luminae", "Tricera"]
     },
     {
       "map_id": "vigil_imbrium",
       "name": "Vigil Imbrium",
-      "objective": "Key capture & turret control",
+      "objective": "Cướp & Giao Key",
       "description": "Chiến đấu trên mặt trăng, nhiều vị trí cao cấp và turret.",
       "recommended_mechas": ["Welkin", "Alysnes", "Pinaka"]
     },
     {
       "map_id": "babylon_sky_fortress",
       "name": "Babylon Sky Fortress",
-      "objective": "Best-of-three team deathmatch",
+      "objective": "Đấu sinh tử BO3",
       "description": "Đấu sát thương cao – thích hợp các mecha áp sát + cơ động.",
       "recommended_mechas": ["Inferno", "Skyraider", "Narukami"]
     }
