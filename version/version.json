@@ -31,7 +31,9 @@
   "mechabreak-key": "active",
 
   "password_vault-ver": "2.0.1",
-  "password_vault-key": "active",
+  "password_vault-key": "baotri",
+  "required_version": "1.5.0",
+
   
   "name": "FEAR-PJ1",
   "status": "active"
