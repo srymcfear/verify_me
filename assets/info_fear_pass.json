@@ -1,1 +1,46 @@
-
+{
+  "appName": "FEAR Password Manager",
+  "version": "2.0.0",
+  "releaseDate": "Tháng 12, 2025",
+  "author": "FEAR Security Team",
+  "license": "GPL-3.0 License",
+  "description": "Built for people who don’t trust browsers, companies, or “free” cloud services.",
+  "icon": "fa-lock",
+  "color": "blue",
+  "features": [
+    "Mã hóa AES-256 end-to-end",
+    "Không lưu trữ dữ liệu trên cloud",
+    "Tự động khóa sau khi không hoạt động",
+    "Quản lý theo danh mục tùy chỉnh",
+    "Tạo mật khẩu mạnh tự động",
+    "Import/Export với mã hóa"
+  ],
+  "links": [
+    {
+      "name": "GitHub Repository",
+      "url": "https://github.com/fear-team/fear-password-manager",
+      "icon": "fab fa-github",
+      "description": "Mã nguồn và đóng góp"
+    },
+    {
+      "name": "Tài liệu hướng dẫn",
+      "url": "https://fear-team.github.io/docs",
+      "icon": "fas fa-book",
+      "description": "Hướng dẫn sử dụng chi tiết"
+    },
+    {
+      "name": "Báo cáo lỗi",
+      "url": "https://github.com/fear-team/fear-password-manager/issues",
+      "icon": "fas fa-bug",
+      "description": "Phản hồi và báo cáo vấn đề"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/ZbwFeuea6U",
+      "icon": "fas fa-bug",
+      "description": "Join my class!"
+    }
+  ],
+  "motto": "Bảo mật là ưu tiên hàng đầu - Your security is our priority",
+  "copyright": "© 2025 FEAR Team. All rights reserved."
+}
