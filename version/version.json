@@ -29,6 +29,9 @@
 
   "mechabreak-ver": "1.0",
   "mechabreak-key": "active",
+
+  "password_vault-ver": "2.0.1",
+  "password_vault-key": "active",
   
   "name": "FEAR-PJ1",
   "status": "active"
