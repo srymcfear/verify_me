@@ -1,44 +1,33 @@
 {
-  "fear-check":"active_baotri_lock",
+  "fear-check": "active_baotri_lock",
   "fear-ver": "1.2.1",
   "autokboard-ver": "1.2.1",
   "autokboard-key": "active",
-
   "twitchdrop-ver": "1.0",
   "twitchdrop-key": "active",
-
   "account_manager-ver": "1.0",
   "account_manager-key": "active",
-
   "youtubeads-ver": "1.2",
-
   "lolmodskin-ver": "2.0",
   "lolmodskin-key": "active",
-
   "oncehuman_dame-ver": "1.0",
   "oncehuman_dame-key": "active",
-
   "phongvks-ver": "1.0",
   "phongvks-key": "lock",
-  
   "mfi_fish-ver": "1.0",
   "mfi_fish-key": "active",
-
   "crimez_fish3-ver": "3.0",
   "crimez_fish3-key": "active",
-
   "mechabreak-ver": "1.0",
   "mechabreak-key": "active",
-
   "password_vault-ver": "2.0.1",
   "password_vault-key": "active",
-
   "fz6tools-ver": "1.0.2",
   "fz6tools-key": "active",
-
-  "fearlolskin-ver": "1.0.2",
+  "fearlolskin-ver": "1.4.2",
   "fearlolskin-key": "active",
-  
   "name": "FEAR-PJ1",
-  "status": "active"
+  "status": "active",
+  "fearlolskin-update-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v1.4.2/update_package_1.4.2.zip",
+  "fearlolskin-installer-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v1.4.2/FEAR-LoLSkins_Setup_1.4.2.exe"
 }
