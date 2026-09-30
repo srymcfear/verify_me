@@ -24,11 +24,12 @@
   "password_vault-key": "active",
   "fz6tools-ver": "1.0.2",
   "fz6tools-key": "active",
-  "fearlolskin-ver": "2.1.0",
+  "fearlolskin-ver": "2.1.1",
   "fearlolskin-key": "active",
   "name": "FEAR-PJ1",
   "status": "active",
-  "fearlolskin-update-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.1.0/update_package_2.1.0.zip",
-  "fearlolskin-installer-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.1.0/FEAR-LoLSkins_Setup_2.1.0.exe",
-  "fearlolskin-relay-url": "wss://fear-party-relay.spestionv.workers.dev"
+  "fearlolskin-update-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.1.1/update_package_2.1.1.zip",
+  "fearlolskin-installer-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.1.1/FEAR-LoLSkins_Setup_2.1.1.exe",
+  "fearlolskin-relay-url": "wss://fear-party-relay.spestionv.workers.dev",
+  "fearlolskin-update-sha256": "fb7ef656418f6693e86c1121dbae3ae19d431c83c5997b994874af49bfe85082"
 }
