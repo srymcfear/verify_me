@@ -28,12 +28,12 @@
   "fearAion2Tran-key": "active",
   "fearAion2Overley-ver": "2.2.0",
   "fearAion2Overley-key": "active",
-  "fearlolskin-ver": "2.2.3",
+  "fearlolskin-ver": "2.2.4",
   "fearlolskin-key": "active",
   "name": "FEAR-PJ1",
   "status": "active",
-  "fearlolskin-update-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.2.3/update_package_2.2.3.zip",
-  "fearlolskin-installer-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.2.3/FEAR-LoLSkins_Setup_2.2.3.exe",
+  "fearlolskin-update-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.2.4/update_package_2.2.4.zip",
+  "fearlolskin-installer-url": "https://github.com/srymcfear/verify_me/releases/download/fear_lolskin_v2.2.4/FEAR-LoLSkins_Setup_2.2.4.exe",
   "fearlolskin-relay-url": "wss://fear-party-relay.spestionv.workers.dev",
-  "fearlolskin-update-sha256": "2428c9daa4f36c72fc26a1c58034c131bd8783f619c4db51bc1214d973347bbc"
+  "fearlolskin-update-sha256": "a7f15de7d4e9aa797ecb0e3f07bb44f2250b07f737e09604c752cbdaaef9bb2c"
 }
